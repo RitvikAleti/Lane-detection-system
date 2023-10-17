@@ -1,7 +1,5 @@
 # Lane Detection System with Python and OpenCV
 
-![Lane Detection System](/path/to/your/lane_detection_system.png)
-
 ## Introduction
 
 This project demonstrates the development of a lane detection system using computer vision techniques, Python, and OpenCV. Lane detection is a critical component of self-driving cars and advanced driver-assistance systems (ADAS), as it provides a constant reference for the vehicle's position on the road.
