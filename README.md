@@ -21,6 +21,7 @@ Ensure you have OpenCV installed, and install the necessary libraries such as Nu
 
 ```bash
 pip install opencv-python-headless numpy matplotlib
+```
 
 Preprocessing of Images
 -----------------------
@@ -62,6 +63,8 @@ Running the Lane Detection System
 
 To run the lane detection system, execute the Python script:
 
+'''
 python lane_detection.py -i input_image.jpg
+'''
 
 Replace input_image.jpg with the path to your image or video file.
