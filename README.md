@@ -63,8 +63,8 @@ Running the Lane Detection System
 
 To run the lane detection system, execute the Python script:
 
-'''
+```
 python lane_detection.py -i input_image.jpg
-'''
+```
 
 Replace input_image.jpg with the path to your image or video file.
